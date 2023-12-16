@@ -18,17 +18,15 @@ Here are some ideas to get you started:
 👋 Hello there! I'm Harsha Rashmi, a passionate web developer on a mission to create elegant and efficient digital experiences.
 
 🚀 Currently exploring the vast world of web technologies, my tech stack includes:
-   - Frontend: HTML, CSS, JavaScript (React.js, Vue.js)
-   - Backend: Node.js, Express.js
-   - Database: MongoDB, MySQL
-   - Other tools: Git, Webpack, npm
+   - Frontend: HTML, CSS, JavaScript (Vanilla)
 
-💡 With a keen eye for detail and a love for clean code, I strive to build user-friendly and visually appealing websites. From crafting responsive layouts to implementing server-side logic, I enjoy every aspect of the web development process.
+
+💡 With a keen eye for detail and a love for clean code, I strive to build user-friendly and visually appealing websites. I enjoy every aspect of the web development process.
 
 🌱 I believe in continuous learning and staying updated with the latest trends in the ever-evolving tech landscape. If you have any suggestions or advice, feel free to share!
 
 🤝 Let's connect! Whether it's collaborating on exciting projects or discussing the latest in web development, I'm always open to new opportunities and conversations.
 
-📫 Reach me at [your email or LinkedIn profile link]
+📫 Reach me at [https://www.linkedin.com/in/harsha-rashmi-478a3a289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 Happy coding! 💻✨
